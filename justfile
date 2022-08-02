@@ -15,5 +15,7 @@ distclean:
 install:
   mkdir -p {{rootdir}}/usr
   mkdir -p {{rootdir}}/usr/share/licenses/julia
+  mkdir -p {{rootdir}}/usr/share/icons/hicolor/scalable/apps/
   cp ./{{target}}/* {{rootdir}}/usr -r
+  cp julia-dots.svg {{rootdir}}/usr/share/icons/hicolor/scalable/apps/julia.svg
   install -Dm644 ./{{target}}/LICENSE.md {{rootdir}}/usr/share/licenses/julia/LICENSE.md

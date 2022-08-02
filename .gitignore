@@ -6,3 +6,4 @@ debian/julia.substvars
 debian/julia
 upstream
 julia-*
+!julia-dots.svg
