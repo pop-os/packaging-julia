@@ -1,3 +1,9 @@
+julia (1.8.1pop1) jammy; urgency=medium
+
+  * Release 1.8.1
+
+ -- Brock Szuszczewicz <brock@szu.email>  Thu, 22 Sep 2022 16:11:57 -0600
+
 julia (1.7.3pop1) jammy; urgency=medium
 
   * Initial Pop!_OS release
