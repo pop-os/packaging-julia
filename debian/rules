@@ -4,7 +4,7 @@
 	dh $@
 
 override_dh_auto_clean:
-	ischroot || bash fetch.sh upstream 1.8 1.8.1
+	ischroot || bash fetch.sh upstream 1.8 1.8.2
 
 override_dh_auto_build:
 	just
