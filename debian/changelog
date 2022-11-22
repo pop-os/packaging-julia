@@ -1,3 +1,9 @@
+julia (1.8.3pop1) jammy; urgency=medium
+
+  * Release 1.8.3
+
+ -- Brock Szuszczewicz <brock@szu.email>  Tue, 22 Nov 2022 11:56:14 -0700
+
 julia (1.8.2pop1) jammy; urgency=medium
 
   * Release 1.8.2
