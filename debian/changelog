@@ -1,3 +1,9 @@
+julia (1.9.0pop1) jammy; urgency=medium
+
+  * Release 1.9.0
+
+ -- Brock Szuszczewicz <brock@szu.email>  Wed, 10 May 2023 17:21:51 -0600
+
 julia (1.8.5pop1) jammy; urgency=medium
 
   * Relase 1.8.5
