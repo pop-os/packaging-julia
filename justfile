@@ -1,6 +1,6 @@
 rootdir := ''
 arch := `uname -m`
-version := '1.9.0'
+version := '1.9.1'
 target := 'julia-' + version
 filename := 'julia-' + version + '-linux-' + arch
 tarballs := 'upstream'
